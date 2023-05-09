@@ -1,5 +1,6 @@
+<div align="center">
 🌱 자라나는 데이터엔지니어 🌱 </br></br>
-<a href="https://ruby-box.notion.site/f221c07d62d440f2867e927a7cd10305" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/ckdbsk12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="https://ruby-box.notion.site/f221c07d62d440f2867e927a7cd10305" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/ckdbsk12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></br></br>
 
 ![ruby-box's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue)
 <!--
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
